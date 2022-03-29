@@ -1,0 +1,10 @@
+{
+  "name": "snap",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Yuri Koshiishi",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
+}
