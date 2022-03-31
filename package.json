@@ -1,9 +1,10 @@
 {
   "name": "snap",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "dist/index.js",
   "author": "Yuri Koshiishi",
   "license": "MIT",
+  "types": "dist/index.d.ts",
   "devDependencies": {
     "eslint": "^8.12.0",
     "eslint-config-prettier": "^8.5.0",
