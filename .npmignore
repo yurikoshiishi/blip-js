@@ -1,0 +1,8 @@
+*.log
+node_modules
+.vscode
+.eslintrc
+.gitignore
+.prettierrc
+tsconfig.json
+yarn.lock
