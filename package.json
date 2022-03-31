@@ -28,11 +28,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yurikoshiishi/snap.git"
+    "url": "git+https://github.com/yurikoshiishi/blip-js.git"
   },
   "bugs": {
-    "url": "https://github.com/yurikoshiishi/snap/issues"
+    "url": "https://github.com/yurikoshiishi/blip-js/issues"
   },
-  "homepage": "https://github.com/yurikoshiishi/snap#readme",
+  "homepage": "https://github.com/yurikoshiishi/blip-js#readme",
   "description": ""
 }
